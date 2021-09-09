@@ -1,7 +1,7 @@
 import discord
 # from keep_alive import keep_alive
 
-TOKEN = 'ODg1NDI4OTE5MDQ0NTcxMTM2.YTm58A.x6p1xfonKokVftwws4L6Qirxaqc'
+TOKEN = 'INSERT BOT TOKEN HERE'
 
 client = discord.Client()
 
